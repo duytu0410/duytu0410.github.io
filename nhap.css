@@ -977,6 +977,12 @@ input[type=checkbox] {
         color:#999999;
     }    
 
+.fb-comments    ._5mdd{
+    color:white;
+
+}
+
+
 @media screen and (min-width: 768px){
     .cart1{
         margin-top:-10px;
